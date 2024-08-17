@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color: #ffff;
+  --border-color: #22C55E;
+  --badge-color: #CC1414;
+  --contentBg-color: #F7F7F7;
+
+  --dashboardBg-color: #F3F4F6;
+  --dashboardLeftText-color: #000000;
+
+  --dashboardRightBg-color: #ffffff;
+  --inputBg-color: #ffffff;
+
+  --productCardBg-color: #F6F6F6;
+
+}
+
+.newBadge {
+  width: 31px;
+  height: 15px;
+  background-color: transparent;
+  border-bottom: 7px solid #000;
+  border-left: 15px solid #000;
+  border-right: 15px solid #000;
+  border-top: 12px solid #000;
+  position: absolute;
+  top: 45px;
+  right: 0;
+  border-top-color: transparent;
+  transform: rotate(180deg);
+}
+
+.discountBadge {
+  width: 31px;
+  height: 15px;
+  background-color: transparent;
+  border-bottom: 7px solid #000;
+  border-left: 15px solid #000;
+  border-right: 15px solid #000;
+  border-top: 12px solid #000;
+  position: absolute;
+  top: 45px;
+  right: 50px;
+  border-top-color: transparent;
+  transform: rotate(180deg);
+
+}

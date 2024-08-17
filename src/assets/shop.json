@@ -1,0 +1,385 @@
+[
+  {
+    "productName": "Slim Fit Cotton Shirt",
+    "categoryName": "fashion",
+    "brandName": "H&M",
+    "price": 2999,
+    "discount": 10,
+    "productStatus": "new",
+    "rating": 4.5,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Slim_Fit_Cotton_Shirt_cbvgmu.webp"
+  },
+  {
+    "productName": "Leather Ankle Boots",
+    "categoryName": "fashion",
+    "brandName": "Zara",
+    "price": 8999,
+    "discount": 20,
+    "productStatus": "new",
+    "rating": 4,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Leather_Ankle_Boots_-_Copy_js3f5a.webp"
+  },
+  {
+    "productName": "Classic Denim Jacket",
+    "categoryName": "fashion",
+    "brandName": "Levi's",
+    "price": 7999,
+    "discount": 15,
+    "productStatus": "new",
+    "rating": 4.5,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Classic_Denim_Jacket_-_Copy_cobazq.webp"
+  },
+  {
+    "productName": "Graphic T-Shirt",
+    "categoryName": "fashion",
+    "brandName": "Nike",
+    "price": 2499,
+    "discount": 3,
+    "productStatus": "new",
+    "rating": 4.2,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Graphic_T-Shirt_-_Copy_u4iomn.jpg"
+  },
+  {
+    "productName": "High-Waisted Jeans",
+    "categoryName": "fashion",
+    "brandName": "Gap",
+    "price": 4999,
+    "discount": 30,
+    "productStatus": "new",
+    "rating": 3.5,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/High-Waisted_Jeans_-_Copy_ugt15x.webp"
+  },
+
+  {
+    "productName": "wooden coffee table",
+    "categoryName": "home&Living",
+    "brandName": "ikea",
+    "price": 129.99,
+    "discount": 15,
+    "productStatus": "new",
+    "rating": 4.8,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Wooden_Coffee_Table_njroyy.jpg"
+  },
+  {
+    "productName": "ceramic vase set",
+    "categoryName": "home&Living",
+    "brandName": "west elm",
+    "price": 49.99,
+    "discount": 10,
+    "productStatus": "new",
+    "rating": 4.6,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Ceramic_Vase_Set_s9nbdl.jpg"
+  },
+  {
+    "productName": "memory foam mattress",
+    "categoryName": "home&Living",
+    "brandName": "casper",
+    "price": 599.99,
+    "discount": 20,
+    "productStatus": "new",
+    "rating": 4.9,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Memory_Foam_Mattress_gn8ahg.jpg"
+  },
+  {
+    "productName": "stainless steel cookware set",
+    "categoryName": "home&Living",
+    "brandName": "cuisinart",
+    "price": 199.99,
+    "discount": 25,
+    "productStatus": "new",
+    "rating": 4.7,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Stainless_Steel_Cookware_Set_kvdx1x.webp"
+  },
+  {
+    "productName": "cotton throw blanket",
+    "categoryName": "home&Living",
+    "brandName": "crate & barrel",
+    "price": 39.99,
+    "discount": 10,
+    "productStatus": "new",
+    "rating": 4.5,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Cotton_Throw_Blanket_ndmxmd.jpg"
+  },
+
+  {
+    "productName": "Kombucha Hydrating Face Cleanser with Hyaluronic Acid -100 ml",
+    "categoryName": "beauty&Personalcare",
+    "brandName": "cerave",
+    "price": 14.99,
+    "discount": 10,
+    "productStatus": "new",
+    "rating": 4.7,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/kombucna_zoltja.webp"
+  },
+  {
+    "productName": "Pure Vitamin C10 Serum – 30ml",
+    "categoryName": "beauty&Personalcare",
+    "brandName": "truskin",
+    "price": 19.99,
+    "discount": 15,
+    "productStatus": "new",
+    "rating": 4.6,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Pure-Vitamin-C10-Serum-30ml-30ml_qaagbu.webp"
+  },
+  {
+    "productName": "Aveeno Daily Moisturising Body Lotion",
+    "categoryName": "beauty&Personalcare",
+    "brandName": "aveeno",
+    "price": 9.99,
+    "discount": 5,
+    "productStatus": "new",
+    "rating": 4.8,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Aveeno-Daily-Moisturising-Body-Lotion_l0v3ya.jpg"
+  },
+  {
+    "productName": "Hawaa Hair Fall Avenger Oil",
+    "categoryName": "beauty&Personalcare",
+    "brandName": "moroccanoil",
+    "price": 34.99,
+    "discount": 20,
+    "productStatus": "new",
+    "rating": 4.9,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Hawaa-Hair-Fall-Avenger-Oil-1_ix9y8s.jpg"
+  },
+  {
+    "productName": "Keratin Smoothing Oil Miracle Gloss Spray",
+    "categoryName": "beauty&Personalcare",
+    "brandName": "maybelline",
+    "price": 11.99,
+    "discount": 10,
+    "productStatus": "new",
+    "rating": 4.4,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Ogx-5-In-1-Frizz-Free-Keratin-Smoothing-Oil-Miracle-Gloss-Spray3_xrpjue.jpg"
+  },
+  {
+    "productName": "Sensodyne Gentle Whitening Toothpaste",
+    "categoryName": "beauty&Personalcare",
+    "brandName": "Sensodyne",
+    "price": 6.99,
+    "discount": 5,
+    "productStatus": "new",
+    "rating": 4.5,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Sensodyne-Gentle-Whitening-Toothpaste1_xyqvnu.jpg"
+  },
+  {
+    "productName": "Altra Escalante 3 running shoes",
+    "categoryName": "sports",
+    "brandName": "nike",
+    "price": 7999,
+    "discount": 20,
+    "productStatus": "new",
+    "rating": 4.8,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Altra-Escalante-3--women-s-_20221129-213316_full_ger8pd.jpg"
+  },
+  {
+    "productName": "Nivia Yoga Mat 10 mm, Blue",
+    "categoryName": "sports",
+    "brandName": "lululemon",
+    "price": 2999,
+    "discount": 10,
+    "productStatus": "new",
+    "rating": 4.7,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/71b5fW_s18L._SX679__tdpmju.jpg"
+  },
+  {
+    "productName": "Nivia Graffiti Basketball",
+    "categoryName": "sports",
+    "brandName": "spalding",
+    "price": 2499,
+    "discount": 15,
+    "productStatus": "new",
+    "rating": 4.5,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/51GBjZvFuDL._SX300_SY300_QL70_FMwebp__dcjain.webp"
+  },
+  {
+    "productName": "fitness tracker",
+    "categoryName": "sports",
+    "brandName": "fitbit",
+    "price": 9999,
+    "discount": 25,
+    "productStatus": "new",
+    "rating": 4.6,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Pk5ydxYo6ty2Q4SX9vznP6_qznw1u.jpg"
+  },
+  {
+    "productName": "soccer ball",
+    "categoryName": "sports",
+    "brandName": "adidas",
+    "price": 1999,
+    "discount": 10,
+    "productStatus": "new",
+    "rating": 4.4,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/images_1_u2z2np.jpg"
+  },
+  {
+    "productName": "Babolat Pure Drive Tennis Racket (Blue) | Babolat | Tennis Rackets ",
+    "categoryName": "sports",
+    "brandName": "wilson",
+    "price": 8999,
+    "discount": 20,
+    "productStatus": "new",
+    "rating": 4.9,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Bab_102435_r2gpu9.jpg"
+  },
+  {
+    "productName": "Pixel 9 Pro Fold",
+    "categoryName": "smartphone",
+    "brandName": "google",
+    "price": 40000,
+    "discount": 20,
+    "productStatus": "",
+    "rating": 4.5,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Samsung_Galaxy_M14_silver_p15fe4.webp"
+  },
+  {
+    "productName": "Pixel 9 Pro XL 16/128GB ",
+    "categoryName": "smartphone",
+    "brandName": "google",
+    "price": 50000,
+    "discount": 10,
+    "productStatus": " ",
+    "rating": 4,
+    "imageUrl": " https://res.cloudinary.com/dgs2ywdd6/image/upload/Post_Template_94_f20f6h.webp"
+  },
+  {
+    "productName": "pixel 9",
+    "categoryName": "smartphone",
+    "brandName": " ",
+    "price": 30000,
+    "discount": 10,
+    "productStatus": " ",
+    "rating": 4,
+    "imageUrl": " https://res.cloudinary.com/dgs2ywdd6/image/upload/Post_Template_98_m1eqqb.webp"
+  },
+  {
+    "productName": "Moto G85",
+    "categoryName": "smartphone",
+    "brandName": "motorola",
+    "price": 70000,
+    "discount": 20,
+    "productStatus": " ",
+    "rating": 4.5,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/G85_Urban_Grey_-_Card_fdb1yo.webp "
+  },
+  {
+    "productName": "honor 200 pro",
+    "categoryName": "smartphone",
+    "brandName": "honor",
+    "price": 45000,
+    "discount": 20,
+    "productStatus": " ",
+    "rating": 4.9,
+    "imageUrl": " https://res.cloudinary.com/dgs2ywdd6/image/upload/Post_Template_36_imy1ff.webp"
+  },
+  {
+    "productName": "Nokia 3210",
+    "categoryName": "smartphone",
+    "brandName": "Nokia",
+    "price": 8999,
+    "discount": 20,
+    "productStatus": " ",
+    "rating": 4.9,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Post_Template_30_oqggtf.webp"
+  },
+  {
+    "productName": "Galaxy Z FLip 6",
+    "categoryName": "smartphone",
+    "brandName": "samsung",
+    "price": 8999,
+    "discount": 20,
+    "productStatus": " ",
+    "rating": 4.5,
+    "imageUrl": " https://res.cloudinary.com/dgs2ywdd6/image/upload/Post_Template_13_waapmb.webp"
+  },
+  {
+    "productName": "Galaxy Z Fold 6",
+    "categoryName": "smartphone",
+    "brandName": "samsung ",
+    "price": 8999,
+    "discount": 20,
+    "productStatus": "",
+    "rating": 4.5,
+    "imageUrl": " https://res.cloudinary.com/dgs2ywdd6/image/upload/Post_Template_5_qfnxf4.webp"
+  },
+  {
+    "productName": "redmi 11 c ",
+    "categoryName": "smartphone",
+    "brandName": "redmi ",
+    "price": 18999,
+    "discount": 20,
+    "productStatus": "",
+    "rating": 4.5,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Black_Beauty_-_Card_vuydyp.webp"
+  },
+  {
+    "productName": "redmi 17",
+    "categoryName": "smartphone",
+    "brandName": "redmi ",
+    "price": 8999,
+    "discount": 20,
+    "productStatus": "",
+    "rating": 4.5,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Card_black_egtann.webp"
+  },
+  {
+    "productName": "samsung  M 26",
+    "categoryName": "smartphone",
+    "brandName": "samsung ",
+    "price": 28999,
+    "discount": 20,
+    "productStatus": "",
+    "rating": 4.5,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Viva_Magenta_-_Card_rzmhve.webp"
+  },
+  {
+    "productName": "Samsung S Ultra",
+    "categoryName": "smartphone",
+    "brandName": "samsung ",
+    "price": 138999,
+    "discount": 20,
+    "productStatus": "",
+    "rating": 4.5,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Matte_Black_-_Card_unpgdi.webp"
+  },
+  {
+    "productName": "Samsung A17",
+    "categoryName": "smartphone",
+    "brandName": "samsung ",
+    "price": 58999,
+    "discount": 20,
+    "productStatus": "",
+    "rating": 4.5,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Honor_Magic6_Pro_Card_spe7gz.webp"
+  },
+  {
+    "productName": "Samsung A28",
+    "categoryName": "smartphone",
+    "brandName": "samsung ",
+    "price": 88000,
+    "discount": 20,
+    "productStatus": "",
+    "rating": 4.5,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Blue_-_Card_gikzob.webp"
+  },
+  {
+    "productName": "Samsung G34",
+    "categoryName": "smartphone",
+    "brandName": "samsung ",
+    "price": 8999,
+    "discount": 20,
+    "productStatus": "",
+    "rating": 4.5,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/Blue_-_Card_gikzob.webp"
+  },
+  {
+    "productName": "Vivo Y17",
+    "categoryName": "smartphone",
+    "brandName": "samsung ",
+    "price": 8999,
+    "discount": 20,
+    "productStatus": "",
+    "rating": 4.5,
+    "imageUrl": "https://res.cloudinary.com/dgs2ywdd6/image/upload/turbo_3_card_m8yg2a.webp"
+  }
+
+]
